@@ -47,6 +47,7 @@ Memory Deallocation
 26.	Free the allocated host and device memory using free and cudaFree.
 27.	Exit
 28.	Return from the main function.
+Program:
 
 ```
 #include <sys/time.h>
